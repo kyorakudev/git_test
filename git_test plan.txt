@@ -1,3 +1,4 @@
 -adding github and git instructions
 -mastering git
--blah blah
+-create branch "plan"
+-edit this text
