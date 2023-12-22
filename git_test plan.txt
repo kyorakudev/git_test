@@ -3,4 +3,5 @@
 -create branch "plan"
 -hello everynyan
 -get an achievement
--mastering javascript and learn php fundamental
+-mastering html and css 
+
