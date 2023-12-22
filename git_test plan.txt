@@ -3,3 +3,4 @@
 -create branch "plan"
 -edit this text
 -get an achievement
+-mastering javascript and learn php fundamental
