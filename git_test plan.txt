@@ -1,6 +1,7 @@
 -adding github and git instructions
 -mastering git
 -create branch "plan"
--edit this text
+-hello everynyan
 -get an achievement
 -mastering html and css 
+
